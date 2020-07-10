@@ -1,5 +1,5 @@
 # NotesApp_MVVM_architecture
-Simple Notes Taking App\n
+Simple Notes Taking App
 Features : 
   Add Notes,
   Delete Notes,
